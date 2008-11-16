@@ -1,0 +1,4 @@
+Terminal           etc/xdg/
+Thunar             etc/xdg/
+xfce4/mcs_settings etc/xdg/xfce4/
+xfce4/panel        usr/share/sidux-settings-xfce/
