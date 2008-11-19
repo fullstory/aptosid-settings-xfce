@@ -1,9 +1,5 @@
-sidux-settings-xfce (1.5) UNRELEASED; urgency=low
+sidux-settings-xfce (1.5) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * set colours in terminal to match kde konsole, suit vim defaults
   * revert to default grey xfce decorator theme, suits pontos better than xfce-winter
 
