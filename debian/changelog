@@ -1,8 +1,12 @@
 sidux-settings-xfce (1.5) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 16:33:57 +0100
+  [ Bernard Gray ]
+  * set colours in terminal to match kde konsole, suit vim defaults
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 19 Nov 2008 11:15:35 +1100
 
 sidux-settings-xfce (1.4) unstable; urgency=low
 
