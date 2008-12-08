@@ -9,7 +9,8 @@ Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-settings-xfce/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-settings-xfce/trunk/
 
 Package: sidux-settings-xfce
-Depends: sidux-art-xfce
+Depends: ${misc:Depends},
+         sidux-art-xfce
 Architecture: all
 Description: provide default Xfce settings for sidux
  Provides default settings for appearance and applications of the Xfce
