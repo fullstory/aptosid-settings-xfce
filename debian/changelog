@@ -1,9 +1,8 @@
-sidux-settings-xfce (1.6) UNRELEASED; urgency=low
+sidux-settings-xfce (1.6) unstable; urgency=low
 
-  * NOT RELEASED YET
   * make lintian happy and depend on ${misc:Depends}.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 03:06:11 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:57:42 +0100
 
 sidux-settings-xfce (1.5) unstable; urgency=low
 
