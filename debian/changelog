@@ -1,8 +1,8 @@
-sidux-settings-xfce (1.8) UNRELEASED; urgency=low
+sidux-settings-xfce (1.8) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.8.1, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 28 May 2009 01:13:03 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 28 May 2009 01:13:54 +0200
 
 sidux-settings-xfce (1.7) unstable; urgency=low
 
