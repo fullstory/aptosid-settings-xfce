@@ -1,9 +1,5 @@
-sidux-settings-xfce (1.7) UNRELEASED; urgency=low
+sidux-settings-xfce (1.7) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * redo the dodgy on providing useful defaults for xfce 4.6
     - non-conflicting files go into etc/xdg/
     - conflicting, or likely to conflict go into usr/share/sidux-settings-xfce/ 
