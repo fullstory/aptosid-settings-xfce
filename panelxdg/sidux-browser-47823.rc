@@ -1,0 +1,13 @@
+[Global]
+MoveFirst=false
+ArrowPosition=0
+
+[Entry 0]
+Name=sidux-browser
+Comment=Web Browser using x-www-browser
+Icon=sidux-browser
+Exec=x-www-browser
+Path=/home/sidux
+Terminal=false
+StartupNotify=true
+
