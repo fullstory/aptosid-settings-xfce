@@ -16,8 +16,9 @@ sidux-settings-xfce (1.7) UNRELEASED; urgency=low
   * wallpaper setting handled in desktop defaults, revert
   * panels.xml - set correct launcher id for sidux-browser
   * rename siduxbrowser just in case extra dashes cause a problem
+  * remove no longer existing autostart from debian/install
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 27 May 2009 21:25:28 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 27 May 2009 21:29:49 +1000
 
 sidux-settings-xfce (1.6) unstable; urgency=low
 

@@ -1,5 +1,4 @@
 Terminal	etc/xdg/
 Thunar		etc/xdg/
 panelxdg/*	etc/xdg/xfce4/panel/
-autostart	usr/share/sidux-settings-xfce/
 xfce4		usr/share/sidux-settings-xfce/
