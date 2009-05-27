@@ -11,8 +11,9 @@ sidux-settings-xfce (1.7) UNRELEASED; urgency=low
   * remove no longer used mcs_settings dir
   * add sidux-browser-*.rc launcher
   * take settings back to almost debian defaults, panel layout, toolbars
+  * autostart/* handled in desktop-defaults preseeding already, revert
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 27 May 2009 20:12:31 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 27 May 2009 21:13:12 +1000
 
 sidux-settings-xfce (1.6) unstable; urgency=low
 
