@@ -1,8 +1,12 @@
 sidux-settings-xfce (1.9) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 28 May 2009 01:15:27 +0200
+  [ Bernard Gray ]
+  * sidux-browser is not automatically picked up in the xdg dirs, keep it local
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 30 May 2009 13:03:03 +1000
 
 sidux-settings-xfce (1.8) unstable; urgency=low
 
