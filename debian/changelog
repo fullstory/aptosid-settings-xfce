@@ -1,11 +1,8 @@
-sidux-settings-xfce (1.9) UNRELEASED; urgency=low
+sidux-settings-xfce (1.9) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * sidux-browser is not automatically picked up in the xdg dirs, keep it local
-  * xfce our rc file is also not called "launcher" - ref it correctly in panels.xml
+  * xfce our rc file is also not called "launcher" - ref it correctly in
+    panels.xml
 
  -- Bernard Gray <bernard.gray@gmail.com>  Sat, 30 May 2009 13:13:22 +1000
 
