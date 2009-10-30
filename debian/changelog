@@ -1,8 +1,13 @@
 sidux-settings-xfce (1.10) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 03 Jun 2009 00:38:22 +0200
+  [ Bernard Gray ]
+  * use gxine for audio cd/dvd handling by default since audacious was replaced
+    - thanks to aus9: http://sidux.com/PNphpBB2-viewtopic-t-18495.html
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 31 Oct 2009 00:54:54 +1100
 
 sidux-settings-xfce (1.9) unstable; urgency=low
 
