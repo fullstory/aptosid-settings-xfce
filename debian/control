@@ -4,7 +4,7 @@ Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.8.1
+Standards-Version: 3.8.3
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-settings-xfce/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-settings-xfce/trunk/
 
