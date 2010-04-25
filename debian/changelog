@@ -1,8 +1,10 @@
-sidux-settings-xfce (1.11) UNRELEASED; urgency=low
+sidux-settings-xfce (1.11) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to dpkg-source 3.0 (native) format.
+  * fix debian/copyright.
+  * bump standards version to 3.8.4, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 01 Nov 2009 14:06:56 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:33:30 +0200
 
 sidux-settings-xfce (1.10) unstable; urgency=low
 
