@@ -1,3 +1,9 @@
+sidux-settings-xfce (1.12) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:37:00 +0200
+
 sidux-settings-xfce (1.11) unstable; urgency=low
 
   * switch to dpkg-source 3.0 (native) format.
