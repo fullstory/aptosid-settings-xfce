@@ -1,8 +1,8 @@
-sidux-settings-xfce (1.12) UNRELEASED; urgency=low
+sidux-settings-xfce (1.12) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * use versioned GPL-2 reference.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:37:00 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:37:44 +0200
 
 sidux-settings-xfce (1.11) unstable; urgency=low
 
