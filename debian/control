@@ -15,3 +15,7 @@ Architecture: all
 Description: provide default Xfce settings for sidux
  Provides default settings for appearance and applications of the Xfce
  desktop in sidux.
+ .
+ This overrides Xfce's defaults used for new users, all settings remain
+ configurable by the local user and don't override already existing user
+ profiles.
