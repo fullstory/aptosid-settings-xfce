@@ -54,7 +54,7 @@ sidux-settings-xfce (1.7) unstable; urgency=low
 
   * redo the dodgy on providing useful defaults for xfce 4.6
     - non-conflicting files go into etc/xdg/
-    - conflicting, or likely to conflict go into usr/share/sidux-settings-xfce/ 
+    - conflicting, or likely to conflict go into usr/share/sidux-settings-xfce/
        and get pulled into live user profile by desktop-defaults preseed script
   * remove no longer used mcs_settings dir
   * add sidux-browser-*.rc launcher
@@ -106,7 +106,7 @@ sidux-art-xfce (1.2) unstable; urgency=low
 sidux-art-xfce (1.1) unstable; urgency=low
 
   * remove no longer required conflicts
-  * depend on real package before virtual 
+  * depend on real package before virtual
 
  -- Bernard Gray <bernard.gray@gmail.com>  Wed, 27 Aug 2008 08:37:08 +1000
 
