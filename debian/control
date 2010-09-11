@@ -4,13 +4,13 @@ Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-settings-xfce/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-settings-xfce/trunk/
 
 Package: sidux-settings-xfce
 Depends: ${misc:Depends},
-         sidux-art-xfce
+ sidux-art-xfce
 Architecture: all
 Description: provide default Xfce settings for sidux
  Provides default settings for appearance and applications of the Xfce

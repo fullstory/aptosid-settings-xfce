@@ -1,8 +1,9 @@
 sidux-settings-xfce (1.13) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * bump standards version to 3.9.1, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:40:39 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 01:41:52 +0200
 
 sidux-settings-xfce (1.12) unstable; urgency=low
 
