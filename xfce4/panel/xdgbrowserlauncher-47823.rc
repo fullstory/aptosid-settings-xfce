@@ -3,11 +3,11 @@ MoveFirst=false
 ArrowPosition=0
 
 [Entry 0]
-Name=sidux-browser
+Name=aptosid-browser
 Comment=Web Browser using x-www-browser
-Icon=sidux-browser
+Icon=aptosid-browser
 Exec=x-www-browser
-Path=/home/sidux
+Path=/home/aptosid
 Terminal=false
 StartupNotify=true
 
