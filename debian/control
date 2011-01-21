@@ -11,8 +11,6 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/aptosid-settings-xfce/trunk/
 Package: aptosid-settings-xfce
 Depends: ${misc:Depends},
  aptosid-art-xfce
-Breaks: sidux-settings-xfce (<< 1.16)
-Replaces: sidux-settings-xfce (<< 1.16)
 Architecture: all
 Description: provide default Xfce settings for aptosid
  Provides default settings for appearance and applications of the Xfce
@@ -21,17 +19,3 @@ Description: provide default Xfce settings for aptosid
  This overrides Xfce's defaults used for new users, all settings remain
  configurable by the local user and don't override already existing user
  profiles.
-
-Package: sidux-settings-xfce
-Depends: ${misc:Depends},
- aptosid-settings-xfce
-Architecture: all
-Description: provide default Xfce settings for aptosid
- Provides default settings for appearance and applications of the Xfce
- desktop in aptosid.
- .
- This overrides Xfce's defaults used for new users, all settings remain
- configurable by the local user and don't override already existing user
- profiles.
- .
- transitional metapackage to pull in aptosid-settings-xfce
