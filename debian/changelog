@@ -1,3 +1,9 @@
+aptosid-settings-xfce (1.16.3) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 20 Feb 2011 03:39:15 +0100
+
 aptosid-settings-xfce (1.16.2) unstable; urgency=low
 
   * drop Thunar/volmanrc, it conflicts with thunar-volman >= 0.3.80-5.
