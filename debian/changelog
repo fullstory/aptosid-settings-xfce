@@ -1,8 +1,12 @@
 aptosid-settings-xfce (1.16.4) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 29 Apr 2011 04:02:22 +0200
+  [ Joaquim Boura ]
+  * default settings for the pannel changed with 4.8
+
+ -- Joaquim Boura <x-un-i@berlios.de>  Sat, 30 Apr 2011 17:43:33 +0200
 
 aptosid-settings-xfce (1.16.3) unstable; urgency=low
 
