@@ -1,9 +1,5 @@
-aptosid-settings-xfce (1.16.4) UNRELEASED; urgency=low
+aptosid-settings-xfce (1.16.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Joaquim Boura ]
   * default settings for the pannel changed with 4.8
 
  -- Joaquim Boura <x-un-i@berlios.de>  Sat, 30 Apr 2011 17:43:33 +0200
