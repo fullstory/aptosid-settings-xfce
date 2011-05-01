@@ -1,8 +1,12 @@
 aptosid-settings-xfce (1.16.6) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 01 May 2011 00:31:08 +0200
+  [ Joaquim Boura ]
+  * fixed typo
+
+ -- Joaquim Boura <x-un-i@berlios.de>  Sun, 01 May 2011 10:10:15 +0200
 
 aptosid-settings-xfce (1.16.5) unstable; urgency=low
 
