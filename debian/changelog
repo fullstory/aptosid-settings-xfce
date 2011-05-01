@@ -1,10 +1,6 @@
-aptosid-settings-xfce (1.16.6) UNRELEASED; urgency=low
+aptosid-settings-xfce (1.16.6) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Joaquim Boura ]
-  * fixed typo
+  * fixed typo.
 
  -- Joaquim Boura <x-un-i@berlios.de>  Sun, 01 May 2011 10:10:15 +0200
 
