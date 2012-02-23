@@ -1,8 +1,8 @@
-aptosid-settings-xfce (1.16.8) UNRELEASED; urgency=low
+aptosid-settings-xfce (1.16.8) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.9.3, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 16 Jan 2012 00:27:24 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 23 Feb 2012 15:43:18 +0100
 
 aptosid-settings-xfce (1.16.7) unstable; urgency=low
 
