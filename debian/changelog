@@ -1,8 +1,9 @@
-aptosid-settings-xfce (1.16.10) UNRELEASED; urgency=low
+aptosid-settings-xfce (1.16.10) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.9.5, no changes necessary.
+  * debian/control: switch Vcs tags to github.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 12 Jan 2013 00:45:06 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 14 Apr 2014 01:21:26 +0200
 
 aptosid-settings-xfce (1.16.9) unstable; urgency=low
 
