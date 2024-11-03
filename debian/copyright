@@ -1,7 +1,7 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: aptosid-settings-xfce
 Upstream-Contact: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Source: git://github.com/fullstory/aptosid-settings-xfce.git
+Source: https://github.com/fullstory/aptosid-settings-xfce.git
 
 Files: *
 Copyright: 2006-2010, Bernard Gray <bernard.gray@gmail.com>

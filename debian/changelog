@@ -1,8 +1,15 @@
-aptosid-settings-xfce (1.16.12) UNRELEASED; urgency=medium
+aptosid-settings-xfce (1.16.12) unstable; urgency=medium
 
-  * NOT RELEASED YET
+  * bump standards version to 4.7.0, no changes necessary.
+  * switch to compat level 13.
+  * make lintian a little happier:
+    - source: vcs-field-uses-insecure-uri Git
+    - source: cute-field Vcs-git vs Vcs-Git
+    - source: insecure-copyright-format-uri
+    - source: silent-on-rules-requiring-root
+    - priority-extra-is-replaced-by-priority-optional
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 03 Jan 2015 18:25:37 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 03 Nov 2024 23:55:12 +0100
 
 aptosid-settings-xfce (1.16.11) unstable; urgency=medium
 
