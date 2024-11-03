@@ -1,3 +1,9 @@
+aptosid-settings-xfce (1.16.13) UNRELEASED; urgency=medium
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 03 Nov 2024 23:56:56 +0100
+
 aptosid-settings-xfce (1.16.12) unstable; urgency=medium
 
   * bump standards version to 4.7.0, no changes necessary.
